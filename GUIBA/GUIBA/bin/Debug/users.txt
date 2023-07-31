@@ -1,0 +1,14 @@
+amna,34,admin
+sania,23,admin
+Amna,123,admin
+AMNA,123,asdsjf
+sas,3645,admin
+pi,123,admin
+noor,123,admin
+am,23,admin
+nida,123,admin
+nisa,11,customer
+neha,123,customer
+as,11,customer
+biha,1234,admin
+fajar,1234,admin

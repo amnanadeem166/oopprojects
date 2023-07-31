@@ -1,0 +1,78 @@
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\bin\Debug\GUIBA.exe.config
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\bin\Debug\GUIBA.exe
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\bin\Debug\GUIBA.pdb
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Properties.Resources.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.csproj.GenerateResource.cache
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.csproj.CoreCompileInputs.cache
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.exe
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.pdb
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Signin.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Signup.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.StartPage.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Option.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Admin.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Add_Drink.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.AddFood.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.AD_UC.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Admintrial.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Drink_UC.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Food_UC.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Sweet_UC.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Customerdetails.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Customerfood.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.menu1.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.menu2.resources
+D:\OOP 2ND Semester\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.menu3.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\bin\Debug\GUIBA.exe.config
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\bin\Debug\GUIBA.exe
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\bin\Debug\GUIBA.pdb
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.csproj.AssemblyReference.cache
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.AD_UC.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Add_Drink.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.AddFood.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Admin.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Admintrial.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Customerdetails.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Customerfood.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Drink_UC.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Food_UC.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.menu1.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.menu2.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.menu3.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Option.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Properties.Resources.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Signin.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Signup.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.StartPage.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Sweet_UC.resources
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.csproj.GenerateResource.cache
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.exe
+C:\Users\Laptop Hubs\Downloads\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.pdb
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\bin\Debug\GUIBA.exe.config
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\bin\Debug\GUIBA.exe
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\bin\Debug\GUIBA.pdb
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.csproj.AssemblyReference.cache
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.csproj.SuggestedBindingRedirects.cache
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.AD_UC.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Add_Drink.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.AddFood.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Admin.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Admintrial.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Customerdetails.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Customerfood.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Drink_UC.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Food_UC.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.menu1.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.menu2.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.menu3.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Option.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Properties.Resources.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Signin.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Signup.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.StartPage.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.Sweet_UC.resources
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.csproj.GenerateResource.cache
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.csproj.CoreCompileInputs.cache
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.exe
+D:\2nd semester\Assignments\All ZIP files\GUIBA\GUIBA\GUIBA\GUIBA\obj\Debug\GUIBA.pdb
